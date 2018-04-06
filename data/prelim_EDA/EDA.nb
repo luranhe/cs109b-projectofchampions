@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    547263,      11080]
-NotebookOptionsPosition[    542506,      10990]
-NotebookOutlinePosition[    542849,      11005]
-CellTagsIndexPosition[    542806,      11002]
+NotebookDataLength[    547025,      11062]
+NotebookOptionsPosition[    542268,      10972]
+NotebookOutlinePosition[    542611,      10987]
+CellTagsIndexPosition[    542568,      10984]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -4971,7 +4971,7 @@ Cell[BoxData[
      RowBox[{";;", "4"}]}], "]"}], "//", "Dataset"}]}]], "Input",
  CellChangeTimes->{{3.7320109206730223`*^9, 3.7320109415626235`*^9}, {
   3.7320123900608463`*^9, 3.7320123922615213`*^9}},
- CellLabel->"In[47]:=",ExpressionUUID->"b60e2077-a36b-4aeb-9f6d-845c2f637128"],
+ CellLabel->"In[2]:=",ExpressionUUID->"b60e2077-a36b-4aeb-9f6d-845c2f637128"],
 
 Cell[BoxData[
  TemplateBox[{TagBox[
@@ -5005,7 +5005,7 @@ Cell[BoxData[
               TypeSystem`PackageScope`AtomShape[60], 
               "Number of Nodules <3mm***" -> 
               TypeSystem`PackageScope`AtomShape[60]]]], 20, {}]], 
-        "InitialData" -> TypeSystem`PackageScope`CacheHandle[1203396462], 
+        "InitialData" -> TypeSystem`PackageScope`CacheHandle[1883111392], 
         "Type" -> TypeSystem`Vector[
           
           TypeSystem`Struct[{
@@ -5015,9 +5015,9 @@ Cell[BoxData[
             TypeSystem`Atom[Real], 
             TypeSystem`Atom[Real], 
             TypeSystem`Atom[Real]}], 1018], "HandleQ" -> True, "RowTarget" -> 
-        20, "Data" -> TypeSystem`PackageScope`CacheHandle[1203396462]], 
+        20, "Data" -> TypeSystem`PackageScope`CacheHandle[1883111392]], 
       TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
-      TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 999, 
+      TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 1, 
       TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
       DynamicModule[{
         TypeSystem`NestedGrid`PackagePrivate`renderedGrid = Deploy[
@@ -5048,9 +5048,9 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277][{
-                    All, "TCIA Patent ID"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1079779386][{All, "TCIA Patent ID"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[All, "TCIA Patent ID"]], "Mouse"], 
                 Background -> GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Item[
@@ -5078,9 +5078,9 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277][{
-                    All, "Total Number of Nodules*"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1079779386][{All, "Total Number of Nodules*"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[All, "Total Number of Nodules*"]], 
                  "Mouse"], Background -> GrayLevel[0.95], 
                 Alignment -> {Left, Baseline}], 
@@ -5109,9 +5109,9 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277][{
-                    All, "Number of Nodules >=3mm**"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1079779386][{All, "Number of Nodules >=3mm**"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[All, "Number of Nodules >=3mm**"]], 
                  "Mouse"], Background -> GrayLevel[0.95], 
                 Alignment -> {Left, Baseline}], 
@@ -5140,15 +5140,15 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277][{
-                    All, "Number of Nodules <3mm***"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1079779386][{All, "Number of Nodules <3mm***"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[All, "Number of Nodules <3mm***"]], 
                  "Mouse"], Background -> GrayLevel[0.95], 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0001", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[1, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5156,7 +5156,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[1, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5164,7 +5164,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[1, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5172,14 +5172,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[1, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0002", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[2, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5187,7 +5187,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["12."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[2, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5195,7 +5195,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[2, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5203,14 +5203,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["11."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[2, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0003", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[3, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5218,7 +5218,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[3, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5226,7 +5226,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[3, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5234,14 +5234,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["0."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[3, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0004", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[4, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5249,7 +5249,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[4, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5257,7 +5257,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[4, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5265,14 +5265,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[4, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0005", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[5, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5280,7 +5280,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["9."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[5, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5288,7 +5288,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[5, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5296,14 +5296,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["6."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[5, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0006", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[6, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5311,7 +5311,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["14."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[6, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5319,7 +5319,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[6, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5327,14 +5327,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["10."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[6, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0007", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[7, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5342,7 +5342,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[7, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5350,7 +5350,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[7, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5358,14 +5358,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["0."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[7, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0008", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[8, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5373,7 +5373,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[8, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5381,7 +5381,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[8, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5389,14 +5389,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[8, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0009", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[9, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5404,7 +5404,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["11."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[9, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5412,7 +5412,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[9, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5420,14 +5420,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["9."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[9, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0010", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[10, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5435,7 +5435,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["6."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[10, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5443,7 +5443,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[10, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5451,14 +5451,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[10, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0011", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[11, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5466,7 +5466,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["17."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[11, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5474,7 +5474,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["10."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[11, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5482,14 +5482,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["7."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[11, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0012", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[12, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5497,7 +5497,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["16."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[12, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5505,7 +5505,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["12."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[12, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5513,14 +5513,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[12, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0013", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[13, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5528,7 +5528,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["34."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[13, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5536,7 +5536,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[13, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5544,14 +5544,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["31."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[13, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0014", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[14, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5559,7 +5559,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["3."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[14, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5567,7 +5567,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[14, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5575,14 +5575,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[14, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0015", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[15, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5590,7 +5590,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[15, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5598,7 +5598,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[15, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5606,14 +5606,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[15, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0016", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[16, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5621,7 +5621,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["14."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[16, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5629,7 +5629,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["6."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[16, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5637,14 +5637,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["8."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[16, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0017", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[17, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5652,7 +5652,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[17, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5660,7 +5660,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[17, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5668,14 +5668,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["0."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[17, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0018", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[18, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5683,7 +5683,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["6."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[18, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5691,7 +5691,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[18, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5699,14 +5699,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[18, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0019", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[19, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5714,7 +5714,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["5."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[19, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5722,7 +5722,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["1."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[19, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5730,14 +5730,14 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[19, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["LIDC-IDRI-0020", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[20, 
                    Key["TCIA Patent ID"]]], "Mouse"], 
                 ImageSize -> {{134.40000000000003`, Full}, Automatic}, 
@@ -5745,7 +5745,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["4."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[20, 
                    Key["Total Number of Nodules*"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5753,7 +5753,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[20, 
                    Key["Number of Nodules >=3mm**"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -5761,7 +5761,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["2."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
                   GeneralUtilities`Slice[20, 
                    Key["Number of Nodules <3mm***"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -6210,8 +6210,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277}, 
-                    1, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386},
+                     1, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show up to 10 rows", 
                     KernelExecute[
                     
@@ -6219,8 +6219,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277}, 
-                    10, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386},
+                     10, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show up to 30 rows", 
                     KernelExecute[
                     
@@ -6228,8 +6228,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277}, 
-                    30, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386},
+                     30, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show up to 100 rows", 
                     KernelExecute[
                     
@@ -6237,8 +6237,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277}, 
-                    100, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386},
+                     100, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show all", 
                     KernelExecute[
                     
@@ -6246,8 +6246,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277}, 
-                    100000000, {}]], MenuEvaluator -> Automatic]}}], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386},
+                     100000000, {}]], MenuEvaluator -> Automatic]}}], 
                SpanFromLeft, SpanFromLeft, SpanFromLeft}}, 
              BaseStyle -> {ContextMenu -> {
                  MenuItem["Copy position to clipboard", 
@@ -6296,7 +6296,7 @@ Cell[BoxData[
                 TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277][
+                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386][
                 TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
                Not[
                 FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
@@ -6327,14 +6327,14 @@ Cell[BoxData[
            TypeSystem`NestedGrid`PackagePrivate`$state$$, 
             TypeSystem`NestedGrid`PackagePrivate`$path$$, 
             TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 946440277]]]], 
+            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1079779386]]]], 
         TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
       TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Framed[
         Dynamic[
          Replace[
           MouseAnnotation[Null], {
-          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][Null] -> 
-           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[946440277][
+          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][Null] -> 
+           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1079779386][
              Pattern[TypeSystem`NestedGrid`PackagePrivate`path, 
               Blank[]]] :> (
             TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
@@ -6381,8 +6381,9 @@ Cell[BoxData[
   "CopyTag",
   DisplayFunction->(#& ),
   InterpretationFunction->("Dataset[<>]"& )]], "Output",
- CellChangeTimes->{3.7320109427452936`*^9, 3.732012397581617*^9},
- CellLabel->"Out[47]=",ExpressionUUID->"3dcfff0b-f896-4b3f-9764-bf8d4a3a5915"]
+ CellChangeTimes->{3.7320109427452936`*^9, 3.732012397581617*^9, 
+  3.7320131447346463`*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"80a24db0-babb-459b-a3c4-ca5e3bf55f5d"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -6395,7 +6396,7 @@ Cell[BoxData[
    "KeySort"}]], "Input",
  CellChangeTimes->{{3.73201106525442*^9, 3.7320110677769403`*^9}, {
   3.732011174623446*^9, 3.7320111759263663`*^9}},
- CellLabel->"In[48]:=",ExpressionUUID->"e4957a78-ae0f-49dd-9176-d354b2169fa2"],
+ CellLabel->"In[3]:=",ExpressionUUID->"e4957a78-ae0f-49dd-9176-d354b2169fa2"],
 
 Cell[BoxData[
  TemplateBox[{TagBox[
@@ -6410,13 +6411,13 @@ Cell[BoxData[
            TypeSystem`PackageScope`KeyValueShape[
             TypeSystem`PackageScope`AtomShape[60], 
             TypeSystem`PackageScope`AtomShape[34]]], 20, {}], "InitialData" -> 
-        TypeSystem`PackageScope`CacheHandle[1990761099], "Type" -> 
+        TypeSystem`PackageScope`CacheHandle[1537007285], "Type" -> 
         TypeSystem`Assoc[
           TypeSystem`Atom[Real], 
           TypeSystem`Atom[Integer], 46], "HandleQ" -> True, "RowTarget" -> 20,
-         "Data" -> TypeSystem`PackageScope`CacheHandle[1990761099]], 
+         "Data" -> TypeSystem`PackageScope`CacheHandle[1537007285]], 
       TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
-      TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 1, 
+      TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 27, 
       TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
       DynamicModule[{
         TypeSystem`NestedGrid`PackagePrivate`renderedGrid = Deploy[
@@ -6438,10 +6439,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[0.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[0.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6449,7 +6449,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["20"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[0.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6469,10 +6469,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[1.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[1.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6480,7 +6479,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["107"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[1.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6500,10 +6499,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[2.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[2.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6511,7 +6509,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["120"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[2.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6531,10 +6529,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[3.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[3.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6542,7 +6539,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["106"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[3.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6562,10 +6559,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[4.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[4.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6573,7 +6569,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["116"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[4.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6593,10 +6589,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[5.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[5.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6604,7 +6599,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["86"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[5.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6624,10 +6619,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[6.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[6.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6635,7 +6629,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["83"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[6.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6655,10 +6649,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[7.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[7.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6666,7 +6659,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["73"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[7.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6686,10 +6679,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[8.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[8.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6697,7 +6689,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["46"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[8.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6717,10 +6709,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[9.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[9.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6728,7 +6719,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["39"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[9.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
@@ -6748,10 +6739,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[10.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[10.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6759,7 +6749,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["27"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[10.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6779,10 +6769,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[11.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[11.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6790,7 +6779,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["20"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[11.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6810,10 +6799,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[12.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[12.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6821,7 +6809,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["22"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[12.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6841,10 +6829,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[13.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[13.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6852,7 +6839,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["16"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[13.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6872,10 +6859,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[14.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[14.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6883,7 +6869,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["20"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[14.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6903,10 +6889,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[15.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[15.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6914,7 +6899,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["17"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[15.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6934,10 +6919,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[16.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[16.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6945,7 +6929,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["11"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[16.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6965,10 +6949,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[17.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[17.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -6976,7 +6959,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["8"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[17.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -6996,10 +6979,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[18.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[18.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -7007,7 +6989,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["7"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[18.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -7027,10 +7009,9 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][{
                     Key[19.]}]], 
-                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                  1124778823][
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                    GeneralUtilities`Slice[
                     Key[19.]]], "Mouse"], 
                  ImageSize -> {{60, Full}, Automatic}], Background -> 
@@ -7038,7 +7019,7 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["10"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
                   GeneralUtilities`Slice[
                    Key[19.]]], "Mouse"], ImageSize -> {{34, Full}, Automatic},
                  Alignment -> {Left, Baseline}]}, {
@@ -7488,8 +7469,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823},
-                     1, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050}, 
+                    1, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show up to 10 rows", 
                     KernelExecute[
                     
@@ -7497,8 +7478,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823},
-                     10, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050}, 
+                    10, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show up to 30 rows", 
                     KernelExecute[
                     
@@ -7506,8 +7487,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823},
-                     30, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050}, 
+                    30, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show up to 100 rows", 
                     KernelExecute[
                     
@@ -7515,8 +7496,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823},
-                     100, {}]], MenuEvaluator -> Automatic], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050}, 
+                    100, {}]], MenuEvaluator -> Automatic], 
                     MenuItem["Show all", 
                     KernelExecute[
                     
@@ -7524,8 +7505,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823},
-                     100000000, {}]], MenuEvaluator -> Automatic]}}], 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050}, 
+                    100000000, {}]], MenuEvaluator -> Automatic]}}], 
                SpanFromLeft}}, BaseStyle -> {ContextMenu -> {
                  MenuItem["Copy position to clipboard", 
                   KernelExecute[
@@ -7573,7 +7554,7 @@ Cell[BoxData[
                 TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823][
+                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050][
                 TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
                Not[
                 FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
@@ -7604,14 +7585,14 @@ Cell[BoxData[
            TypeSystem`NestedGrid`PackagePrivate`$state$$, 
             TypeSystem`NestedGrid`PackagePrivate`$path$$, 
             TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1124778823]]]], 
+            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 747242050]]]], 
         TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
       TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Framed[
         Dynamic[
          Replace[
           MouseAnnotation[Null], {
-          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][Null] -> 
-           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1124778823][
+          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][Null] -> 
+           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[747242050][
              Pattern[TypeSystem`NestedGrid`PackagePrivate`path, 
               Blank[]]] :> (
             TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
@@ -7659,8 +7640,8 @@ Cell[BoxData[
   DisplayFunction->(#& ),
   InterpretationFunction->("Dataset[<>]"& )]], "Output",
  CellChangeTimes->{3.7320110685333805`*^9, 3.732011176417122*^9, 
-  3.732012404050869*^9},
- CellLabel->"Out[48]=",ExpressionUUID->"157c7528-1a14-4bcc-9ade-f23b01b040a1"]
+  3.732012404050869*^9, 3.7320131465658565`*^9},
+ CellLabel->"Out[3]=",ExpressionUUID->"b6629a5f-8b1f-44e9-8a9b-a848399d37d4"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -7919,8 +7900,8 @@ Cell[BoxData[
              AbsoluteThickness[1.5], 
              Opacity[0.66]}], {}, {}], 
           RectangleBox[{11.5, 0}, {12.5, 22.}, "RoundingRadius" -> 0]},
-         ImageSizeCache->{{152.75495880575426`, 163.7149396936904}, {
-          71.73593718865186, 107.82840450262978`}}],
+         ImageSizeCache->{{152.25495880575426`, 164.2149396936904}, {
+          71.23593718865186, 108.32840450262978`}}],
         StatusArea[#, 22]& ,
         TagBoxNote->"22"],
        StyleBox["22", {}, StripOnInput -> False]],
@@ -10624,10 +10605,11 @@ Cell[BoxData[
       RowBox[{"\"\<Nodules\>\"", ",", "\"\<Count\>\""}], "}"}]}], ",", 
     RowBox[{
     "PlotLabel", "\[Rule]", 
-     "\"\<Number of Large (\[GreaterEqual]3mm) Nodules per Patient\>\""}]}], 
+     "\"\<Number of Small (<3mm) Nodules per Patient\>\""}]}], 
    "]"}]}]], "Input",
- CellChangeTimes->{{3.732011904654343*^9, 3.732011968829906*^9}},
- CellLabel->"In[41]:=",ExpressionUUID->"70865a79-0b33-44e0-9914-c021ef0cfd08"],
+ CellChangeTimes->{{3.732011904654343*^9, 3.732011968829906*^9}, {
+  3.7320132900629215`*^9, 3.7320132926292033`*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"70865a79-0b33-44e0-9914-c021ef0cfd08"],
 
 Cell[BoxData[
  GraphicsBox[{
@@ -10955,8 +10937,7 @@ Cell[BoxData[
   GridLinesStyle->Directive[
     GrayLevel[0.5, 0.4]],
   PlotLabel->FormBox[
-   "\"Number of Large (\[GreaterEqual]3mm) Nodules per Patient\"", 
-    TraditionalForm],
+   "\"Number of Small (<3mm) Nodules per Patient\"", TraditionalForm],
   PlotRange->{{-0.5, 16.5}, {All, All}},
   PlotRangePadding->{{
      Scaled[0.02], 
@@ -10964,8 +10945,9 @@ Cell[BoxData[
      Scaled[0.02], 
      Scaled[0.05]}},
   Ticks->{Automatic, Automatic}]], "Output",
- CellChangeTimes->{{3.7320119354577236`*^9, 3.7320119696866956`*^9}},
- CellLabel->"Out[41]=",ExpressionUUID->"250d1737-b1c5-41f0-8e8f-dd3045252b1c"]
+ CellChangeTimes->{{3.7320119354577236`*^9, 3.7320119696866956`*^9}, 
+   3.7320132951108007`*^9},
+ CellLabel->"Out[4]=",ExpressionUUID->"9d8f74ce-2cfe-4f8f-899b-e1782548a3c4"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -10980,12 +10962,12 @@ Cell[BoxData[
       "\"\<nodules_small.pdf\>\""}], "}"}]}], ",", "nodulesSmall"}], 
   "]"}]], "Input",
  CellChangeTimes->{{3.732012056424735*^9, 3.7320120604254436`*^9}},
- CellLabel->"In[46]:=",ExpressionUUID->"40ed418f-ce1b-4cbb-ba51-e9e795270bd4"],
+ CellLabel->"In[5]:=",ExpressionUUID->"40ed418f-ce1b-4cbb-ba51-e9e795270bd4"],
 
 Cell[BoxData["\<\"C:\\\\Users\\\\lhe\\\\cs109b\\\\cs109b-projectofchampions\\\
 \\data\\\\prelim_EDA\\\\nodules_small.pdf\"\>"], "Output",
- CellChangeTimes->{3.7320120614561405`*^9},
- CellLabel->"Out[46]=",ExpressionUUID->"3b0def40-793d-4e4c-8dc7-58efb1f88988"]
+ CellChangeTimes->{3.7320120614561405`*^9, 3.7320132977657847`*^9},
+ CellLabel->"Out[5]=",ExpressionUUID->"2adc250f-71b8-4455-890c-b8a19bf49b37"]
 }, Open  ]]
 },
 WindowSize->{759, 697},
@@ -11007,7 +10989,7 @@ Notebook[{
 Cell[558, 20, 445, 11, 28, "Input",ExpressionUUID->"010c784a-a775-4539-b973-d0c600cfa6bc"],
 Cell[CellGroupData[{
 Cell[1028, 35, 314, 7, 28, "Input",ExpressionUUID->"502e9ace-b246-4b1d-86bc-26dfd24a2f42"],
-Cell[1345, 44, 104513, 2192, 616, "Output",ExpressionUUID->"ae9af5b5-528f-492b-a511-607a50f24949"]
+Cell[1345, 44, 104513, 2192, 583, "Output",ExpressionUUID->"ae9af5b5-528f-492b-a511-607a50f24949"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[105895, 2241, 920, 19, 55, "Input",ExpressionUUID->"5cc41dae-1736-4c99-b115-f16ed750f30f"],
@@ -11043,44 +11025,44 @@ Cell[259663, 4942, 239, 3, 32, "Output",ExpressionUUID->"5c0b9de8-0adf-4cf0-9768
 }, Open  ]],
 Cell[259917, 4948, 459, 11, 67, "Input",ExpressionUUID->"e32ab716-d96f-45a0-a835-b418b92951c0"],
 Cell[CellGroupData[{
-Cell[260401, 4963, 423, 10, 28, "Input",ExpressionUUID->"b60e2077-a36b-4aeb-9f6d-845c2f637128"],
-Cell[260827, 4975, 70707, 1409, 583, "Output",ExpressionUUID->"3dcfff0b-f896-4b3f-9764-bf8d4a3a5915"]
+Cell[260401, 4963, 422, 10, 28, "Input",ExpressionUUID->"b60e2077-a36b-4aeb-9f6d-845c2f637128"],
+Cell[260826, 4975, 70828, 1410, 583, "Output",ExpressionUUID->"80a24db0-babb-459b-a3c4-ca5e3bf55f5d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[331571, 6389, 387, 8, 28, "Input",ExpressionUUID->"e4957a78-ae0f-49dd-9176-d354b2169fa2"],
-Cell[331961, 6399, 63446, 1263, 561, "Output",ExpressionUUID->"157c7528-1a14-4bcc-9ade-f23b01b040a1"]
+Cell[331691, 6390, 386, 8, 28, "Input",ExpressionUUID->"e4957a78-ae0f-49dd-9176-d354b2169fa2"],
+Cell[332080, 6400, 63021, 1243, 594, "Output",ExpressionUUID->"b6629a5f-8b1f-44e9-8a9b-a848399d37d4"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[395444, 7667, 879, 19, 67, "Input",ExpressionUUID->"a6183f49-e3c9-4081-8476-6b6e4e112aac"],
-Cell[396326, 7688, 20570, 589, 273, "Output",ExpressionUUID->"d5e15a13-a704-4f66-a877-6b71ea22961b"]
+Cell[395138, 7648, 879, 19, 67, "Input",ExpressionUUID->"a6183f49-e3c9-4081-8476-6b6e4e112aac"],
+Cell[396020, 7669, 20570, 589, 273, "Output",ExpressionUUID->"d5e15a13-a704-4f66-a877-6b71ea22961b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[416933, 8282, 388, 9, 28, "Input",ExpressionUUID->"94bf0ba0-d2ef-417e-9ac4-9bbd8c91fcbe"],
-Cell[417324, 8293, 254, 3, 32, "Output",ExpressionUUID->"ffc5506a-9ac8-4f6f-80d4-78c1900d1796"]
+Cell[416627, 8263, 388, 9, 28, "Input",ExpressionUUID->"94bf0ba0-d2ef-417e-9ac4-9bbd8c91fcbe"],
+Cell[417018, 8274, 254, 3, 32, "Output",ExpressionUUID->"ffc5506a-9ac8-4f6f-80d4-78c1900d1796"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[417615, 8301, 338, 7, 28, "Input",ExpressionUUID->"7a587354-5172-49ba-b109-b9976c130fac"],
-Cell[417956, 8310, 36954, 727, 509, "Output",ExpressionUUID->"9afddb69-d885-4561-ae88-9fbcb248d3dc"]
+Cell[417309, 8282, 338, 7, 28, "Input",ExpressionUUID->"7a587354-5172-49ba-b109-b9976c130fac"],
+Cell[417650, 8291, 36954, 727, 509, "Output",ExpressionUUID->"9afddb69-d885-4561-ae88-9fbcb248d3dc"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[454947, 9042, 1059, 22, 86, "Input",ExpressionUUID->"52ddc639-810a-4197-b6cf-27ed4b2556f6"],
-Cell[456009, 9066, 9228, 264, 278, "Output",ExpressionUUID->"2d0baea9-a895-49b5-a397-ba471f9406ba"]
+Cell[454641, 9023, 1059, 22, 86, "Input",ExpressionUUID->"52ddc639-810a-4197-b6cf-27ed4b2556f6"],
+Cell[455703, 9047, 9228, 264, 245, "Output",ExpressionUUID->"2d0baea9-a895-49b5-a397-ba471f9406ba"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[465274, 9335, 405, 10, 28, "Input",ExpressionUUID->"37776be1-eee7-46bd-a0b1-d22455955e6e"],
-Cell[465682, 9347, 258, 3, 32, "Output",ExpressionUUID->"b3db6a13-c5b0-4afd-8397-b76744faeb2e"]
+Cell[464968, 9316, 405, 10, 28, "Input",ExpressionUUID->"37776be1-eee7-46bd-a0b1-d22455955e6e"],
+Cell[465376, 9328, 258, 3, 32, "Output",ExpressionUUID->"b3db6a13-c5b0-4afd-8397-b76744faeb2e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[465977, 9355, 337, 7, 28, "Input",ExpressionUUID->"f5eb87e1-cce7-4bff-b4e8-dad5bb86043e"],
-Cell[466317, 9364, 62942, 1242, 561, "Output",ExpressionUUID->"6e295636-42f2-46ea-b481-748aba4c9fe7"]
+Cell[465671, 9336, 337, 7, 28, "Input",ExpressionUUID->"f5eb87e1-cce7-4bff-b4e8-dad5bb86043e"],
+Cell[466011, 9345, 62942, 1242, 561, "Output",ExpressionUUID->"6e295636-42f2-46ea-b481-748aba4c9fe7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[529296, 10611, 756, 18, 86, "Input",ExpressionUUID->"70865a79-0b33-44e0-9914-c021ef0cfd08"],
-Cell[530055, 10631, 11732, 336, 245, "Output",ExpressionUUID->"250d1737-b1c5-41f0-8e8f-dd3045252b1c"]
+Cell[528990, 10592, 794, 19, 86, "Input",ExpressionUUID->"70865a79-0b33-44e0-9914-c021ef0cfd08"],
+Cell[529787, 10613, 11740, 336, 245, "Output",ExpressionUUID->"9d8f74ce-2cfe-4f8f-899b-e1782548a3c4"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[541824, 10972, 403, 10, 28, "Input",ExpressionUUID->"40ed418f-ce1b-4cbb-ba51-e9e795270bd4"],
-Cell[542230, 10984, 260, 3, 32, "Output",ExpressionUUID->"3b0def40-793d-4e4c-8dc7-58efb1f88988"]
+Cell[541564, 10954, 402, 10, 28, "Input",ExpressionUUID->"40ed418f-ce1b-4cbb-ba51-e9e795270bd4"],
+Cell[541969, 10966, 283, 3, 89, "Output",ExpressionUUID->"2adc250f-71b8-4455-890c-b8a19bf49b37"]
 }, Open  ]]
 }
 ]
