@@ -31,7 +31,9 @@ def conv_block(m, dim, acti, bn, res, do=0):
     n = Conv2D(dim, 3, activation=acti, padding='same')(n)
     if bn:
         n = BatchNormalization()(n)
-    return Concatenate()([m, n]) if res else n
+    if res:
+        n = Concatenate()([m, n])
+    return n
 
 def level_block(m, dim, depth, inc, acti, do, bn, mp, up, res):
     if depth > 0:
