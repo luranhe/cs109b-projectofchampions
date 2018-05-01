@@ -1,0 +1,3 @@
+[dicom] 
+path = /home/ubuntu/s3-drive/LIDC-IDRI/
+warn = True
